@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamesh Chaudhary</h1>
-<h3 align="center">Dedicated Web Developer Delving into the World of Code, Crafting Digital Solutions with Passion</h3>
+<h3 align="center">Dedicated Web Developer Developing into the World of Code, Crafting Digital Solutions with Passion</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kameshchaudhary17&label=Profile%20views&color=0e75b6&style=flat" alt="kameshchaudhary17" /> </p>
 
