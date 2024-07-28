@@ -28,7 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kameshchaudhary17&show_icons=true&locale=en" alt="kameshchaudhary17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kameshchaudhary17&" alt="kameshchaudhary17" /></p>
-### Hi there 👋
+
 
 <!--
 **Kameshchaudhary17/kameshchaudhary17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
